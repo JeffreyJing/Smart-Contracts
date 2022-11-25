@@ -3,7 +3,7 @@
 This is a repository for all the smart contracts I've written for paid clients. The list includes:
 
 
-1. Deck of Degeneracy- https://www.deckofdegeneracy.com/
+1. Deck of Degeneracy- https://www.deckofdegeneracy.com/ <br>
    ETH Blockchain code: https://etherscan.io/address/0x8b3c69abc8c588e3eceb2eedf3bccf8fea950241#code
    OpenSea: https://opensea.io/collection/deckofdegeneracy
    
