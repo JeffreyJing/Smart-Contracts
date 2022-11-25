@@ -1,6 +1,6 @@
 # Smart-Contracts
 
-This is a repository for all the smart contracts I've written for paid clients. The list includes:
+This is a repository for all the smart contracts I've written for paid clients and my own projects. The list includes:
 
 
 1. Deck of Degeneracy- https://www.deckofdegeneracy.com/ <br>
